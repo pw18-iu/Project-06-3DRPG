@@ -1,7 +1,12 @@
-# Project-06
+# Exercise-06b-Animations
 
-# Features added
+# References
 
-# References to resources used in the project
+Textures from: https://freepbr.com/
+Models and animations from: Mixamo.com
 
-# Created by
+Kenney Blaster Kit: https://kenney.nl/assets/blaster-kit
+
+# Created by 
+
+Peiwen Wang
