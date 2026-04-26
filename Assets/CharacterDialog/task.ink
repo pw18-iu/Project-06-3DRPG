@@ -16,5 +16,5 @@ Do you have time to help me complete a task?
  -> task
  
 == task ==
-I need you to help me take out two targets in the maze.
+I need you to help me take out three red targets in the maze.
 -> END
