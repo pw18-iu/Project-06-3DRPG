@@ -4880,17 +4880,9 @@ MonoBehaviour:
   m_Mesh: {fileID: 223386917}
   m_VersionIndex: 2275
   m_IsSelectable: 1
-  m_SelectedFaces: 04000000
-  m_SelectedEdges:
-  - a: 16
-    b: 17
-  - a: 18
-    b: 16
-  - a: 17
-    b: 19
-  - a: 19
-    b: 18
-  m_SelectedVertices: 10000000110000001200000013000000
+  m_SelectedFaces: 
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!4 &709663239
 Transform:
   m_ObjectHideFlags: 0
@@ -11269,15 +11261,9 @@ MonoBehaviour:
   m_Mesh: {fileID: 1778794038}
   m_VersionIndex: 2361
   m_IsSelectable: 1
-  m_SelectedFaces: 08000000
-  m_SelectedEdges:
-  - a: 24
-    b: 25
-  - a: 25
-    b: 26
-  - a: 26
-    b: 24
-  m_SelectedVertices: 18000000190000001a000000
+  m_SelectedFaces: 
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!4 &1757541548
 Transform:
   m_ObjectHideFlags: 0
@@ -17484,7 +17470,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -1.9664917, y: -258.55722, z: 511.23962, w: 172.05722}
+  m_margin: {x: -52.862793, y: -258.55722, z: 533.5051, w: 172.05722}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
